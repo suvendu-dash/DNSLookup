@@ -1,0 +1,540 @@
+Advanced DNS Information for: hackerone.com
+=====================================================
+Name Servers:
+a.ns.hackerone.com.
+b.ns.hackerone.com.
+
+A (IPv4) records:
+hackerone.com.		300	IN	A	104.18.36.214
+hackerone.com.		300	IN	A	172.64.151.42
+
+AAAA (IPv6) records:
+hackerone.com.		300	IN	AAAA	2606:4700:4400::ac40:972a
+hackerone.com.		300	IN	AAAA	2606:4700:4400::6812:24d6
+
+MX (Mail Exchange) records:
+hackerone.com.		300	IN	MX	20 alt2.aspmx.l.google.com.
+hackerone.com.		300	IN	MX	10 aspmx.l.google.com.
+hackerone.com.		300	IN	MX	30 aspmx3.googlemail.com.
+hackerone.com.		300	IN	MX	20 alt1.aspmx.l.google.com.
+hackerone.com.		300	IN	MX	30 aspmx2.googlemail.com.
+
+TXT records:
+hackerone.com.		300	IN	TXT	"atlassian-domain-verification=JpJ4g3munTo9KsuR3Elcdpn97c+KQV7KDjj2YmE+ULiWhGlcfA5f1ivoC0W2puQk"
+hackerone.com.		300	IN	TXT	"docusign=848c7864-3a91-42aa-8e30-2671086f7516"
+hackerone.com.		300	IN	TXT	"google-site-verification=mKdqQzjtY7X20BzUFnhAmFU2pmtFJ_Zie_S22FiwubA"
+hackerone.com.		300	IN	TXT	"h1-domain-verification=LDEQA8SYNEMgdUN1kfMtjFNptDJcnjKN8LxNHCN3JNvT5Fxo"
+hackerone.com.		300	IN	TXT	"stripe-verification=20c821f6e4dfc5ee358ea9b8e4635cf062a2acac5751f8004d23b122f1cb5ac2"
+hackerone.com.		300	IN	TXT	"wework-site-verification=e0czKzmn7ul5Cr9A"
+hackerone.com.		300	IN	TXT	"cloudpiercer-verification=32e7eea9d2f153b176b182626588bc77"
+hackerone.com.		300	IN	TXT	"google-site-verification=3LAOq3Z_u6zVOJHlZW0I7tuQpCPvZHC9JBZMk3e20mk"
+hackerone.com.		300	IN	TXT	"citrix-verification-code=9c920630-2d05-4154-b72a-1021665d3b58"
+hackerone.com.		300	IN	TXT	"v=spf1 include:_spf.google.com include:amazonses.com include:mail.zendesk.com include:spf.mail.intercom.io include:mktomail.com include:registrarmail.net -all"
+hackerone.com.		300	IN	TXT	"drift-domain-verification=18fef5450d713c159ad9f6309fa338d298c11edd56fb22e343d758fb5f58437f"
+hackerone.com.		300	IN	TXT	"ZOOM_verify_pzZpSwKqRx6pAD9lLkSl5g"
+hackerone.com.		300	IN	TXT	"zapier-domain-verification-challenge=d1be5c1b-f415-418f-9542-abc14d8321af"
+hackerone.com.		300	IN	TXT	"onetrust-domain-verification=0be23834ba1d435eb1748ba6b36d8b0c"
+hackerone.com.		300	IN	TXT	"facebook-domain-verification=niq4ke9m7djq4jt36f02t093aig8a5"
+hackerone.com.		300	IN	TXT	"c06l6z7hp4vk6bzpqb1j6b8w1m64nf84"
+hackerone.com.		300	IN	TXT	"wayback=verification for request #673161"
+hackerone.com.		300	IN	TXT	"slack-domain-verification=cQndsOjWj4XDM9icHSNlvtrh3r1jfQMQTfhDNxiz"
+hackerone.com.		300	IN	TXT	"apple-domain-verification=YOO9EuQfVRiqtbWi"
+hackerone.com.		300	IN	TXT	"4b7570f2564f4074b42872e1d78668ad"
+hackerone.com.		300	IN	TXT	"google-site-verification=kOO_QjqFZ7fbwXaF0PiMcK2OMQL5nTVBiM21SsO9Olk"
+hackerone.com.		300	IN	TXT	"adobe-idp-site-verification=5d77b0274800290cf193145126595b14308358f46dfe90eba5e298f99d32d2fc"
+hackerone.com.		300	IN	TXT	"stripe-verification=74802599834dfbfc093c8352686c992d22e7b20a6fdcfceac2e6a846074d6936"
+hackerone.com.		300	IN	TXT	"0q8zpfvc64swgyy9wwwrjl7vgwrfffbf"
+hackerone.com.		300	IN	TXT	"ethiack-verification=90a57e39678d110483d6af677032a2b66f098cf58f74d64f924ecbc1e2c251afe0006eaa1ea5b527973d46d3c2f258907e1fc47a22681d64abbfd3180f0c4c8c"
+hackerone.com.		300	IN	TXT	"70gn9hp69jzpn3nkp42r8n9jwwtd1d70"
+hackerone.com.		300	IN	TXT	"MS=ms75772789"
+
+SPF records:
+"v=spf1 include:_spf.google.com include:amazonses.com include:mail.zendesk.com include:spf.mail.intercom.io include:mktomail.com include:registrarmail.net -all"
+
+DMARC records:
+"v=DMARC1; p=reject; fo=1; ri=3600; rua=mailto:fgunarop@ag.dmarcian.com,mailto:dmarc-reports@hackerone.com; ruf=mailto:fgunarop@fr.dmarcian.com;"
+SRV records:
+
+Reverse DNS Lookup results:
+Reverse DNS for 104.18.36.214:
+
+Reverse DNS for 172.64.151.42:
+
+Attempting Zone Transfer:
+Trying b.ns.hackerone.com....
+
+; <<>> DiG 9.19.19-1-Debian <<>> AXFR hackerone.com @b.ns.hackerone.com.
+;; global options: +cmd
+; Transfer failed.
+Trying a.ns.hackerone.com....
+
+; <<>> DiG 9.19.19-1-Debian <<>> AXFR hackerone.com @a.ns.hackerone.com.
+;; global options: +cmd
+; Transfer failed.
+
+Public IP of this machine:
+64.227.172.212
+
+Traceroute to hackerone.com (may require root privileges):
+traceroute to hackerone.com (104.18.36.214), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.66.66.10 (10.66.66.10)  1.840 ms 10.66.66.2 (10.66.66.2)  2.128 ms 10.66.66.12 (10.66.66.12)  4.705 ms
+ 3  143.198.252.92 (143.198.252.92)  1.447 ms 143.198.252.84 (143.198.252.84)  1.249 ms 143.198.252.78 (143.198.252.78)  1.700 ms
+ 4  143.244.192.20 (143.244.192.20)  1.416 ms 143.244.192.14 (143.244.192.14)  1.406 ms 143.244.192.18 (143.244.192.18)  1.322 ms
+ 5  143.244.225.128 (143.244.225.128)  1.386 ms 143.244.225.130 (143.244.225.130)  1.375 ms 143.244.225.132 (143.244.225.132)  1.741 ms
+ 6  115.111.223.33 (115.111.223.33)  2.164 ms 14.143.245.181.static-banglore.vsnl.net.in (14.143.245.181)  2.473 ms  2.405 ms
+ 7  * * *
+ 8  115.112.8.94.STATIC-Chennai.vsnl.net.in (115.112.8.94)  9.508 ms  9.391 ms  9.314 ms
+ 9  162.158.52.19 (162.158.52.19)  8.426 ms 162.158.52.35 (162.158.52.35)  8.287 ms  8.046 ms
+10  104.18.36.214 (104.18.36.214)  8.655 ms  7.889 ms  7.856 ms
+=====================================================
+Performing advanced check via Shodan API:
+Shodan search for hackerone.com:
+{
+  "domain": "hackerone.com",
+  "tags": [
+    "dmarc",
+    "ipv6"
+  ],
+  "subdomains": [
+    "_dmarc",
+    "api",
+    "b.ns",
+    "docs",
+    "gslink",
+    "mta-sts",
+    "mta-sts.forwarding",
+    "mta-sts.managed",
+    "resources",
+    "support",
+    "www",
+    "zendesk1",
+    "zendesk2"
+  ],
+  "data": [
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "",
+      "type": "A",
+      "ports": [
+        80,
+        443,
+        2082,
+        2083,
+        2086,
+        2087,
+        2096,
+        8080,
+        8443
+      ],
+      "value": "104.16.100.52",
+      "last_seen": "2024-02-23T09:08:52.382000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "",
+      "type": "A",
+      "ports": [
+        80,
+        443,
+        2052,
+        2053,
+        2083,
+        2086,
+        2087,
+        2096,
+        8080,
+        8443,
+        8880
+      ],
+      "value": "104.16.99.52",
+      "last_seen": "2024-02-23T09:08:52.382000"
+    },
+    {
+      "subdomain": "",
+      "type": "A",
+      "value": "104.18.36.214",
+      "last_seen": "2024-03-21T05:11:26.293000"
+    },
+    {
+      "subdomain": "",
+      "type": "A",
+      "value": "172.64.151.42",
+      "last_seen": "2024-03-21T05:11:26.291000"
+    },
+    {
+      "subdomain": "",
+      "type": "AAAA",
+      "value": "2606:4700:4400::6812:24d6",
+      "last_seen": "2024-03-21T05:11:26.297000"
+    },
+    {
+      "subdomain": "",
+      "type": "AAAA",
+      "value": "2606:4700:4400::ac40:972a",
+      "last_seen": "2024-03-21T05:11:26.294000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "",
+      "type": "AAAA",
+      "ports": [
+        443
+      ],
+      "value": "2606:4700::6810:6334",
+      "last_seen": "2024-02-23T09:09:02.674000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "",
+      "type": "AAAA",
+      "ports": [
+        80,
+        443
+      ],
+      "value": "2606:4700::6810:6434",
+      "last_seen": "2024-02-23T09:09:02.673000"
+    },
+    {
+      "subdomain": "",
+      "type": "MX",
+      "value": "alt1.aspmx.l.google.com",
+      "last_seen": "2024-03-21T03:24:15.921000"
+    },
+    {
+      "subdomain": "",
+      "type": "MX",
+      "value": "alt2.aspmx.l.google.com",
+      "last_seen": "2024-03-21T03:24:15.882000"
+    },
+    {
+      "subdomain": "",
+      "type": "MX",
+      "value": "aspmx.l.google.com",
+      "last_seen": "2024-03-21T03:24:16.228000"
+    },
+    {
+      "subdomain": "",
+      "type": "MX",
+      "value": "aspmx2.googlemail.com",
+      "last_seen": "2024-03-21T03:24:16.351000"
+    },
+    {
+      "subdomain": "",
+      "type": "MX",
+      "value": "aspmx3.googlemail.com",
+      "last_seen": "2024-03-21T03:24:16.350000"
+    },
+    {
+      "subdomain": "",
+      "type": "NS",
+      "value": "a.ns.hackerone.com",
+      "last_seen": "2024-03-21T03:23:50.729000"
+    },
+    {
+      "subdomain": "",
+      "type": "NS",
+      "value": "b.ns.hackerone.com",
+      "last_seen": "2024-03-21T03:23:50.879000"
+    },
+    {
+      "subdomain": "",
+      "type": "SOA",
+      "value": "a.ns.hackerone.com",
+      "last_seen": "2024-03-21T03:24:34.436000"
+    },
+    {
+      "subdomain": "_dmarc",
+      "type": "TXT",
+      "value": "v=DMARC1; p=reject; fo=1; ri=3600; rua=mailto:fgunarop@ag.dmarcian.com,mailto:dmarc-reports@hackerone.com; ruf=mailto:fgunarop@fr.dmarcian.com;",
+      "last_seen": "2024-03-21T03:23:21.190000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "api",
+      "type": "A",
+      "ports": [
+        80,
+        443,
+        2082,
+        2083,
+        2086,
+        2087,
+        2096,
+        8080,
+        8443
+      ],
+      "value": "104.16.100.52",
+      "last_seen": "2024-02-23T09:08:51.547000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "api",
+      "type": "A",
+      "ports": [
+        80,
+        443,
+        2052,
+        2053,
+        2083,
+        2086,
+        2087,
+        2096,
+        8080,
+        8443,
+        8880
+      ],
+      "value": "104.16.99.52",
+      "last_seen": "2024-02-23T09:08:51.782000"
+    },
+    {
+      "subdomain": "api",
+      "type": "A",
+      "value": "104.18.36.214",
+      "last_seen": "2024-03-21T05:12:21.172000"
+    },
+    {
+      "subdomain": "api",
+      "type": "A",
+      "value": "172.64.151.42",
+      "last_seen": "2024-03-21T05:12:21.170000"
+    },
+    {
+      "subdomain": "api",
+      "type": "AAAA",
+      "value": "2606:4700:4400::6812:24d6",
+      "last_seen": "2024-03-21T05:12:21.170000"
+    },
+    {
+      "subdomain": "api",
+      "type": "AAAA",
+      "value": "2606:4700:4400::ac40:972a",
+      "last_seen": "2024-03-21T05:12:21.174000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "api",
+      "type": "AAAA",
+      "ports": [
+        443
+      ],
+      "value": "2606:4700::6810:6334",
+      "last_seen": "2024-02-23T09:09:02.790000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "api",
+      "type": "AAAA",
+      "ports": [
+        80,
+        443
+      ],
+      "value": "2606:4700::6810:6434",
+      "last_seen": "2024-02-23T09:09:02.671000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "b.ns",
+      "type": "A",
+      "ports": [
+        53
+      ],
+      "value": "162.159.1.31",
+      "last_seen": "2024-03-21T03:20:22.219000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "b.ns",
+      "type": "AAAA",
+      "ports": [
+        53
+      ],
+      "value": "2400:cb00:2049:1::a29f:11f",
+      "last_seen": "2024-03-21T03:20:41.807000"
+    },
+    {
+      "subdomain": "docs",
+      "type": "A",
+      "value": "104.18.36.214",
+      "last_seen": "2024-03-21T03:20:22.473000"
+    },
+    {
+      "subdomain": "docs",
+      "type": "A",
+      "value": "172.64.151.42",
+      "last_seen": "2024-03-21T03:20:22.024000"
+    },
+    {
+      "subdomain": "docs",
+      "type": "AAAA",
+      "value": "2606:4700:4400::6812:24d6",
+      "last_seen": "2024-03-21T03:20:41.929000"
+    },
+    {
+      "subdomain": "docs",
+      "type": "AAAA",
+      "value": "2606:4700:4400::ac40:972a",
+      "last_seen": "2024-03-21T03:20:42.691000"
+    },
+    {
+      "subdomain": "gslink",
+      "type": "CNAME",
+      "value": "d3rxkn2g2bbsjp.cloudfront.net",
+      "last_seen": "2024-03-18T11:51:24.637000"
+    },
+    {
+      "subdomain": "mta-sts",
+      "type": "CNAME",
+      "value": "hacker0x01.github.io",
+      "last_seen": "2024-03-18T12:00:55.993000"
+    },
+    {
+      "subdomain": "mta-sts.forwarding",
+      "type": "CNAME",
+      "value": "hacker0x01.github.io",
+      "last_seen": "2024-03-18T11:52:10.277000"
+    },
+    {
+      "subdomain": "mta-sts.managed",
+      "type": "CNAME",
+      "value": "hacker0x01.github.io",
+      "last_seen": "2024-03-18T11:51:09.109000"
+    },
+    {
+      "subdomain": "resources",
+      "type": "CNAME",
+      "value": "read.uberflip.com",
+      "last_seen": "2024-03-18T11:54:56.876000"
+    },
+    {
+      "subdomain": "support",
+      "type": "CNAME",
+      "value": "2fe254e58a0ea8096400b2fda121ee35.freshdesk.com",
+      "last_seen": "2024-03-18T11:51:10.783000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "www",
+      "type": "A",
+      "ports": [
+        80,
+        443,
+        2082,
+        2083,
+        2086,
+        2087,
+        2096,
+        8080,
+        8443
+      ],
+      "value": "104.16.100.52",
+      "last_seen": "2024-02-23T09:08:52.537000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "www",
+      "type": "A",
+      "ports": [
+        80,
+        443,
+        2052,
+        2053,
+        2083,
+        2086,
+        2087,
+        2096,
+        8080,
+        8443,
+        8880
+      ],
+      "value": "104.16.99.52",
+      "last_seen": "2024-02-23T09:08:53.560000"
+    },
+    {
+      "subdomain": "www",
+      "type": "A",
+      "value": "104.18.36.214",
+      "last_seen": "2024-03-21T05:12:32.390000"
+    },
+    {
+      "subdomain": "www",
+      "type": "A",
+      "value": "172.64.151.42",
+      "last_seen": "2024-03-21T05:12:32.391000"
+    },
+    {
+      "subdomain": "www",
+      "type": "AAAA",
+      "value": "2606:4700:4400::6812:24d6",
+      "last_seen": "2024-03-21T05:12:32.425000"
+    },
+    {
+      "subdomain": "www",
+      "type": "AAAA",
+      "value": "2606:4700:4400::ac40:972a",
+      "last_seen": "2024-03-21T05:12:32.391000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "www",
+      "type": "AAAA",
+      "ports": [
+        443
+      ],
+      "value": "2606:4700::6810:6334",
+      "last_seen": "2024-02-23T09:09:02.672000"
+    },
+    {
+      "tags": [
+        "cdn"
+      ],
+      "subdomain": "www",
+      "type": "AAAA",
+      "ports": [
+        80,
+        443
+      ],
+      "value": "2606:4700::6810:6434",
+      "last_seen": "2024-02-23T09:09:02.801000"
+    },
+    {
+      "subdomain": "zendesk1",
+      "type": "CNAME",
+      "value": "mail1.zendesk.com",
+      "last_seen": "2024-03-18T11:50:51.600000"
+    },
+    {
+      "subdomain": "zendesk2",
+      "type": "CNAME",
+      "value": "mail2.zendesk.com",
+      "last_seen": "2024-03-18T11:54:13.900000"
+    }
+  ],
+  "more": false
+}
