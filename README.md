@@ -52,6 +52,14 @@ Replace example.com with the domain you wish to investigate.
 # Output
 The script generates a detailed report named <domain>_dns_info.txt, containing all the DNS records and additional information gathered during the execution.
 
+# Screenshots
+
+Here are some screenshots of the **DNSLookupTool** in action:
+
+![Screenshot 1](https://github.com/suvendu-dash/DNSLookupTool/blob/main/output/dns-info-1.png)
+![Screenshot 2](https://github.com/suvendu-dash/DNSLookupTool/blob/main/output/dns-info-2.png)
+![Screenshot 3](https://github.com/suvendu-dash/DNSLookupTool/blob/main/output/dns-info-3.png)
+
 # Contributing
 Contributions to DNSLookup.sh are welcome! Feel free to fork the repository, make improvements, and submit pull requests. If you encounter any issues or have suggestions, please open an issue in the GitHub repository.
 
