@@ -28,7 +28,7 @@ Before running DNSLookup.sh, ensure you have the following installed:
    ```
 3. Navigate to the script directory:
    ```
-   cd DNSLookupTool
+   cd DNSLookup
    ```
 4. Make the script executable:
    ```
